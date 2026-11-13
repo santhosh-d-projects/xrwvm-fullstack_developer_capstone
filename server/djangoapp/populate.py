@@ -44,4 +44,3 @@ def initiate():
             year=year,
             car_make=car_make_instances[make_index],
         )
-
